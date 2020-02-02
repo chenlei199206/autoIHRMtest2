@@ -13,8 +13,8 @@ suite = unittest.TestSuite()
 suite.addTest(unittest.makeSuite(LoginTest))
 
 # 4 指定测试报告的地址
-report_path = app.BASE_DIR + "/report/ihrm-{}.html".format(time.strftime('%Y%m%d %H%M%S'))
-
+# report_path = app.BASE_DIR + "/report/ihrm-{}.html".format(time.strftime('%Y%m%d %H%M%S'))
+report_path = app.BASE_DIR + "/report/ihrm.html"
 # 5 使用HTMLTestRunner运行测试套件
 with open(report_path, 'wb') as f:
     # 定义HTMLTestRunner的实例

@@ -1,0 +1,9 @@
+[
+  "login_test_parame.py::LoginTest::test01_login_0_13800000002",
+  "login_test_parame.py::LoginTest::test01_login_1_13900000002",
+  "login_test_parame.py::LoginTest::test01_login_2_13800000002",
+  "login_test_parame.py::LoginTest::test01_login_3_",
+  "login_test_parame.py::LoginTest::test01_login_4_13800000002",
+  "login_test_parame.py::LoginTest::test04_no_parmas",
+  "login_test_parame.py::LoginTest::test07_more_parmas"
+]

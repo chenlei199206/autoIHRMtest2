@@ -1,0 +1,9 @@
+{
+  "login_test.py": true,
+  "login_test.py::LoginTest::test02_user_no": true,
+  "login_test_parame.py::LoginTest::test01_login_0__": true,
+  "login_test_parame.py::LoginTest::test01_login_1__": true,
+  "login_test_parame.py::LoginTest::test01_login_2__": true,
+  "login_test_parame.py::LoginTest::test01_login_3__": true,
+  "login_test_parame.py::LoginTest::test01_login_4__": true
+}
